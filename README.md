@@ -24,9 +24,9 @@ Start the nodejs server, the server will run on a random unused port as prompted
 
 ## Screenshots
 
-<img width="1356" alt="Screen Shot 2022-07-27 at 6 01 57 PM" src="https://user-images.githubusercontent.com/44655669/183212209-9de2f8cf-6ff8-482b-9089-31ad33c19112.png">
 <img width="1356" alt="Screen Shot 2022-07-27 at 5 59 24 PM" src="https://user-images.githubusercontent.com/44655669/183212453-fe9c55f7-867b-4c90-9d77-a4d7783017ba.png">
 <img width="1356" alt="Screen Shot 2022-07-27 at 5 59 38 PM" src="https://user-images.githubusercontent.com/44655669/183212478-8e91b59a-1583-4391-962d-927019aa8d39.png">
 <img width="1356" alt="Screen Shot 2022-07-27 at 5 59 45 PM" src="https://user-images.githubusercontent.com/44655669/183212497-6e65ad68-946c-4974-b36b-de0104344a11.png">
-<img width="1356" alt="Screen Shot 2022-07-27 at 5 59 57 PM" src="https://user-images.githubusercontent.com/44655669/183212523-13179cb5-cdb3-466b-98c7-782d4668916e.png"><img width="1356" alt="Screen Shot 2022-07-27 at 6 01 57 PM" src="https://user-images.githubusercontent.com/44655669/183212552-0d5ce545-9885-4148-ba88-6550675f93a5.png">
+<img width="1356" alt="Screen Shot 2022-07-27 at 5 59 57 PM" src="https://user-images.githubusercontent.com/44655669/183212523-13179cb5-cdb3-466b-98c7-782d4668916e.png">
+<img width="1356" alt="Screen Shot 2022-07-27 at 6 01 57 PM" src="https://user-images.githubusercontent.com/44655669/183212552-0d5ce545-9885-4148-ba88-6550675f93a5.png">
 
